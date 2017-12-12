@@ -1,6 +1,8 @@
 # Summary
 
+* [Введение](README.md)
 * [Методология](method/quick-start/quick-start.ru.md)
+    * [Быстрый старт](method/quick-start/quick-start.ru.md)
     * [Основные понятия](method/key-concepts/key-concepts.ru.md)
     * [Соглашение по именованию](method/naming-convention/naming-convention.ru.md)
     * [CSS](method/bem-for-css/bem-for-css.ru.md)
