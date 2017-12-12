@@ -9,21 +9,5 @@
         "-sharing",
         "search",
         "collapsible-menu"
-    ],
-    "pluginsConfig": {
-    "theme-api": {
-        "languages": [
-            {
-                "lang": "en",
-                "name": "EN",
-                "default": true
-            },
-            {
-                "lang": "uk",
-                "name": "UK"
-            }
-        ],
-        "split": true
-        }
-    }
+    ]
 }
